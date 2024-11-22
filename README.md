@@ -11,7 +11,7 @@
 ![2](https://github.com/user-attachments/assets/8a2fd9a9-37fd-4859-9f7a-44828334eabe)
 
 ## 第一步
-下载源码到ubuntu20.04（已配置好opencv环境），并在编译器中打开。
+下载源码到ubuntu20.04（已配置好opencv环境，阿里云OSS环境），并在编译器中打开。
 
 ## 第二步
 更改服务器TCP
