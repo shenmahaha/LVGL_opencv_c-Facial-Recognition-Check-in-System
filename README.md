@@ -8,8 +8,6 @@
 
 ## 界面截图
 
-![1](https://github.com/user-attachments/assets/3b916c44-1230-44ba-9d9f-142ab059672a)
-
 ![2](https://github.com/user-attachments/assets/8a2fd9a9-37fd-4859-9f7a-44828334eabe)
 
 ## 第一步
@@ -17,6 +15,7 @@
 
 ## 第二步
 更改服务器TCP
+
 ![image](https://github.com/user-attachments/assets/28e745f5-3b79-46bb-8ed3-45fe3dfb96e3)
 
 ## 第三步
